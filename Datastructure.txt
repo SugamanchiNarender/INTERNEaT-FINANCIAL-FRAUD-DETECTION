@@ -1,0 +1,38 @@
+Internet Financial Fraud Detection based on a Distributed Big Data Approach with Node2vec
+
+Internet of Things (IoT), Internet finance, fraud detection, graph embedding algorithm, Node2Vec
+
+
+IEEE Access,Volume:9,Issue Date:26.February.2021
+
+
+Internet Finance Dataset
+
+Internet_Financial_Fraud
+
+internet_financial_fraud
+
+
+
+
+Shopping Type
+
+bookstores, boutiques, candy shops, liquor stores, gift shops, hardware stores, hobby stores, pet stores, pharmacies, sex shops and supermarkets.
+
+
+Financial_Fraud_Prediction
+
+Customer_Email
+customerPhone
+customerDevice
+customerIPAddress
+customerBillingAddress
+No_Transactions
+No_Orders
+No_Payments
+Prediction
+
+
+
+Financial_Fraud_Prediction,detection_ratio,detection_accuracy
+
