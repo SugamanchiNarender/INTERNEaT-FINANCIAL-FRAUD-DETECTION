@@ -1,2 +1,2 @@
 # INTERNEaT-FINANCIAL-FRAUD-DETECTION
-This Internet financial fraud detection project involves gathering data from transactions and user profiles, cleaning it up, and spotting suspicious patterns. We then use this data to teach computer programs to recognize fraud, like unusual spending or logins from unexpected places. Once trained, these programs watch over transactions in real-time, sending alerts if they see something fishy. We integrate them into existing banking systems to keep things smooth for users. Regular checks ensure they're working well, and we make sure everything follows the rules and respects people's privacy. By doing this, we're aiming to make online transactions safer and more trustworthy for everyone.
+
